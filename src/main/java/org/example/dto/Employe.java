@@ -1,0 +1,14 @@
+package org.example.dto;
+
+import lombok.Data;
+
+import java.time.LocalDate;
+import java.util.List;
+@Data
+public class Employe extends  Person{
+
+    private String matricule;
+    private LocalDate dateRecrutement;
+    private  String email;
+    private List<Account> accounts;
+}
