@@ -10,4 +10,6 @@ public class Client extends Person{
     private String adresse;
 
     private List<Account> accountList;
+
+    private List<Credit> creditList;
 }

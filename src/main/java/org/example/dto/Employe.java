@@ -10,5 +10,7 @@ public class Employe extends  Person{
     private String matricule;
     private LocalDate dateRecrutement;
     private  String email;
-    private List<Account> accounts;
+
+    private List<AffectationA> affectationAList;
+    private  List<AffectationM> affectationMList;
 }

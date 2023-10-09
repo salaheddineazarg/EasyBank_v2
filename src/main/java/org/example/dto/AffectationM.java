@@ -4,7 +4,7 @@ import lombok.Data;
 
 import java.time.LocalDate;
 @Data
-public class Affectation {
+public class AffectationM {
 
 
     private LocalDate Startdate;

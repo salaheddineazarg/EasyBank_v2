@@ -9,5 +9,5 @@ public class Mission {
     private String code;
     private String name;
     private String description;
-    private List<Affectation> affectationList ;
+    private List<AffectationM> affectationList ;
 }
