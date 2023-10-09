@@ -1,6 +1,6 @@
 package org.example.interfaces;
 
-import dto.Mission;
+import org.example.dto.Mission;
 
 import java.util.Map;
 import java.util.Optional;

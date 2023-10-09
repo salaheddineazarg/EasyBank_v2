@@ -8,7 +8,7 @@ public abstract class  Account {
     protected String nrAccount;
     protected double solde;
     protected LocalDate deteCreation;
-
+    protected  Etat etat;
     protected  Employe employe;
     protected Client client;
 

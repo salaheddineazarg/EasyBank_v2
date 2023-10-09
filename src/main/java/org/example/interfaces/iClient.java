@@ -1,6 +1,6 @@
 package org.example.interfaces;
 
-import dto.Client;
+import org.example.dto.Client;
 
 import java.util.Map;
 import java.util.Optional;

@@ -1,7 +1,7 @@
 package org.example.interfaces;
 
 
-import dto.Employe;
+import org.example.dto.Employe;
 
 import java.util.Map;
 import java.util.Optional;

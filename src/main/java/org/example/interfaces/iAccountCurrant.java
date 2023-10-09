@@ -1,6 +1,6 @@
 package org.example.interfaces;
 
-import dto.AccountCurrant;
+import org.example.dto.AccountCurrant;
 
 public interface iAccountCurrant extends iAccount<AccountCurrant> {
 }
